@@ -32,7 +32,6 @@
         <a class='waves-effect waves-light btn' @click='onSignInClick'>Sign in to Google Sheets</a>
         <div>
           <h4>Demo</h4>
-        <iframe src="https://www.youtube.com/embed/5e8K0LMdTmw" frameborder="0" allowfullscreen class='video-demo'></iframe>
         </div>
       </div>
     </div>

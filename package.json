@@ -4,6 +4,9 @@
   "description": "A time tracking input form into google sheets",
   "author": "anvaka <anvaka@gmail.com>",
   "private": true,
+  "engines": {
+    "node": "10.15"
+  },
   "scripts": {
     "start": "node build/server.js",
     "dev": "node build/dev-server.js",
